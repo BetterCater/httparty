@@ -635,6 +635,7 @@ module HTTParty
 end
 
 require 'httparty/hash_conversions'
+require 'httparty/utils'
 require 'httparty/exceptions'
 require 'httparty/parser'
 require 'httparty/request'
